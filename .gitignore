@@ -13,5 +13,5 @@ hs_err_pid*
 *.iml
 *.iws
 *.ipr
-**\target\
+**/target/
 *.idea/
